@@ -27,3 +27,12 @@ body {
 .portfolio-item {
   margin-bottom: 30px;
 }
+
+.carousel {
+  padding-top: 10px;
+  width:640px;
+  height:400px;
+  margin: auto;
+}
+
+
